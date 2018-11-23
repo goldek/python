@@ -1,3 +1,5 @@
+# SPRAWDŹ TO!!!!
+
 # Checks if player inputs correct value: rock, scissors or paper. Returns true if so otherwise returns false
 def checkInput(s):
     b = False
